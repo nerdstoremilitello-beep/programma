@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/index.json
+data/chats/
+finetune/out/
+finetune/train.jsonl
+workspace/*
+!workspace/.gitkeep
